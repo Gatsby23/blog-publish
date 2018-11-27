@@ -1,0 +1,17 @@
+---
+tzx-changes:
+  - hash: 714e2cd58497ff3727fa2ed2b239ad8b88b5f687
+    datetime: 1504952689
+    insertions: 2
+    deletions: 2
+  - hash: a2cea34de37563f11c1692a0e26a5100cd6e15bb
+    datetime: 1495847754
+    insertions: 7
+    deletions: 1
+  - hash: 624fca16ab754c62ba0a2719873dc9aac7dc9900
+    datetime: 1493994149
+    insertions: 13
+    deletions: 0
+
+tzx-filename: _pages/ideas.md
+...

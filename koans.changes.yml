@@ -1,0 +1,109 @@
+---
+tzx-changes:
+  - hash: ded14406deb993ce55c95eaa57587283d6f75cd4
+    datetime: 1520091927
+    insertions: 4
+    deletions: 0
+  - hash: 27e4e050872974d92bfa25abd4ea5a10e45c3dfe
+    datetime: 1507975553
+    insertions: 16
+    deletions: 0
+  - hash: 5bbf5af1073e64cafe7726fbb975a2246cf977fb
+    datetime: 1506764927
+    insertions: 1
+    deletions: 1
+  - hash: 8ca3bb404b11dab62de6f8703287e7f02fb402c0
+    datetime: 1506222979
+    insertions: 1
+    deletions: 1
+  - hash: 0eda199dc180f502501e4c8459e0901b4a2303ab
+    datetime: 1506222677
+    insertions: 6
+    deletions: 3
+  - hash: 7120c3486ec161f6cd0e33cc9d2f330061914ac8
+    datetime: 1506222392
+    insertions: 82
+    deletions: 0
+  - hash: a693a9bf45051d86b9e5192ef005b7230f849074
+    datetime: 1505741204
+    insertions: 10
+    deletions: 0
+  - hash: 2e961d65420dc3c78ddb5ce85de9ec06bf626904
+    datetime: 1505004828
+    insertions: 4
+    deletions: 0
+  - hash: 6cde7dddd060f5f7e2a9f9e19bcd59f559e079f5
+    datetime: 1504774623
+    insertions: 5
+    deletions: 0
+  - hash: 8b8c72b6690dc6947b1a621c713d128815827ee0
+    datetime: 1504741766
+    insertions: 16
+    deletions: 0
+  - hash: 503e511788e741cf3ef0f32f8894bf9b83c6206b
+    datetime: 1504105630
+    insertions: 15
+    deletions: 0
+  - hash: 761ac6ba2093d27e203dceee3089ad56c727026a
+    datetime: 1496994158
+    insertions: 5
+    deletions: 0
+  - hash: e087bcb14ad52a25f89b9556520b3093eeb0fbd4
+    datetime: 1496884887
+    insertions: 4
+    deletions: 0
+  - hash: a2cea34de37563f11c1692a0e26a5100cd6e15bb
+    datetime: 1495847754
+    insertions: 5
+    deletions: 0
+  - hash: fef0c45c2101ee488521d62e06bc991ea798a1dd
+    datetime: 1495543066
+    insertions: 2
+    deletions: 0
+  - hash: cf3324fafde58028a202adc3beec20404def7d51
+    datetime: 1495377948
+    insertions: 1
+    deletions: 1
+  - hash: 9a347c547791d0f4d77e68e472dabda743b44ff4
+    datetime: 1495035571
+    insertions: 9
+    deletions: 0
+  - hash: 51f270f926107185eb087594a9b5ee574bf4313b
+    datetime: 1494849228
+    insertions: 4
+    deletions: 0
+  - hash: 59d7dcaf54ac47cc196a9946f6e828eabb712820
+    datetime: 1494499624
+    insertions: 2
+    deletions: 0
+  - hash: 624fca16ab754c62ba0a2719873dc9aac7dc9900
+    datetime: 1493994149
+    insertions: 3790
+    deletions: 0
+  - hash: 8bdd4383ddd19162f6951eb89862a14305017411
+    datetime: 1485584286
+    insertions: 1
+    deletions: 1
+  - hash: 5d4281364a04f14aa4e0c4aa3e38b72722c617ef
+    datetime: 1485369276
+    insertions: 44
+    deletions: 0
+  - hash: 4a39d7832bd52675016094a50434d1b7edcd13ab
+    datetime: 1483950786
+    insertions: 9
+    deletions: 1
+  - hash: 666a203d1ed48c1124badf95a1c6ff21532038ee
+    datetime: 1483501152
+    insertions: 54
+    deletions: 8
+  - hash: 2229474410c54785c4ce5b45ee82e2206eda8585
+    datetime: 1482929656
+    insertions: 52
+    deletions: 0
+  - hash: 3cd52522fc5cfff122bac2ba73dfc72f28050ab1
+    datetime: 1482608116
+    insertions: 3522
+    deletions: 0
+
+tzx-filename: _pages/koans.md
+...

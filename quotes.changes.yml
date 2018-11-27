@@ -1,0 +1,17 @@
+---
+tzx-changes:
+  - hash: 2e961d65420dc3c78ddb5ce85de9ec06bf626904
+    datetime: 1505004828
+    insertions: 9
+    deletions: 11
+  - hash: ac52fa9bcb1a5f5f959ef8351632fbccb70cfe07
+    datetime: 1497423130
+    insertions: 8
+    deletions: 0
+  - hash: 624fca16ab754c62ba0a2719873dc9aac7dc9900
+    datetime: 1493994149
+    insertions: 89
+    deletions: 0
+
+tzx-filename: _pages/quotes.md
+...

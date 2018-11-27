@@ -1,0 +1,21 @@
+---
+tzx-changes:
+  - hash: 03add53d7ffb5db9d5565b372a727291fb7e2fac
+    datetime: 1534269391
+    insertions: 2
+    deletions: 1
+  - hash: 10548ab4edc8246bdc9411b421f81e7a1b61b22f
+    datetime: 1517320080
+    insertions: 1
+    deletions: 0
+  - hash: 4e2501ae80e67e1fb1d01280bbccc1fada6c341f
+    datetime: 1506837112
+    insertions: 4
+    deletions: 4
+  - hash: 624fca16ab754c62ba0a2719873dc9aac7dc9900
+    datetime: 1493994149
+    insertions: 153
+    deletions: 0
+
+tzx-filename: index.md
+...
